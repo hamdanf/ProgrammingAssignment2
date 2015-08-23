@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 
 ## This function (makeCasheMatrix) will create a square invertible matrix
 ## and returns a list of functions to get or set an inverted matrix in cache
